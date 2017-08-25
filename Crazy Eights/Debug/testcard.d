@@ -1,0 +1,1 @@
+testcard.d: ../testcard.cpp

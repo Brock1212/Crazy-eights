@@ -1,0 +1,1 @@
+testdeck.d: ../testdeck.cpp
